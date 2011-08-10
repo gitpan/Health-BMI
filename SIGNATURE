@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.66.
+signed via the Module::Signature module, version 0.68.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,26 +14,26 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 dc3c00e5bcf3b151395f19cb227bf3fbc3b2d3eb Build.PL
-SHA1 ea9ffe87a6204287cd720fd696842a316053d91c Changes
+SHA1 db37ea3ecc0057577fc519aacf99cee0f5cd2301 Build.PL
+SHA1 6b3064bd3a3024ecf17b2604bb7dcd29cf74e99d Changes
 SHA1 1e8df3ebc518501a469a624edd9269c5e922789a MANIFEST
 SHA1 7d20e4e840781030202bb045d5ab81b3fd1b68b0 MANIFEST.SKIP
-SHA1 235e1e93f98c247a50d0bc12fc3be82677f26afe META.yml
-SHA1 0d5da690f5ecb60cd3d9be1e4e708892ac916a1c Makefile.PL
+SHA1 dc1e92e241ea0ca5c3869f618d8793fd515330a3 META.yml
+SHA1 aec16ef2eeb10107706b4a26a463998c6890254a Makefile.PL
 SHA1 b28080b20cc4997043eeed0c9dab584704ff19f6 README
-SHA1 b2a2b35ab481c3768605cfc05feb6373e9542f57 lib/Health/BMI.pm
+SHA1 d8021d8fbf720e2407322d120edb04c4b6e76931 lib/Health/BMI.pm
 SHA1 99c83634c628b9b9b93299533b47f48e07c41df1 t/00-load.t
 SHA1 ec31b4711edba29d92a364a9a0d045233171cc42 t/01-unit-test.t
 SHA1 2b8ffb7e4f399af95d092743846ac8d438f2c53e t/manifest.t
 SHA1 0765c9ff0cc4319f415bb08d0053b7717a8284a2 t/pod.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.11 (MingW32)
+Version: GnuPG v2.0.14 (MingW32)
 
-iQEcBAEBAgAGBQJNxfV/AAoJENoXJXWo7C/pplUIAMhHIK83WU09ZVBquQnAIacC
-TBn6RUWV/vwF8N8juzUXTkPX4oY+NpXjwKDZBf500GZSU+TIrXRpD1Pk+HuVondd
-0FfxNJWOC6slL/ETqow6WIDZwNGJIjvbISlDLUVaLtDdv8ROZKhaoU5ya8/JqQQn
-0rBmaUXFzUVveNhkRNLAZx8bt6BT+onQBuCFUtTKayHbyuHWbo08GxQ4ohPiGenW
-PUJzvKfTklPXw8zztInSLg9y32Loy+c2emZFd6UhXDMfQRyFpVNhTmh6fOQuyPL4
-BNDvx6DJXiI+k0GI355K6S6LYdwB65BJTjprb3OzmtaqmhnBFWPROu3TaPEqm+E=
-=QYgO
+iQEcBAEBAgAGBQJOQm31AAoJEPYcXBXhRYOhzysH/3Kcw/BHt4x8QJnqnaE/22DQ
+0mJzRU+oqiPAJYWFTC+IzrNdLydAsRjyXKuxv5h1ZmZ2KtuZV6q7OpKZExXktECB
+SSqCBSJnbfu0KyrbfN23c/gAuC4fjCyoyBGUtLW4pSk5PmrmeioLd9iuwwjIOZmC
+r439XDanGVW2syElBXHNyiEzCx/AklFcb4qC6w5zzikWwKxLJXWLbM3Bzv6pH73l
+EZ0Ss+VJWilpDZPgGZm0zSmNLOWfNfXNWVHBkHDqTJSKeBxok923CJVxKUGI4KEM
+JJesDY+42auH3rkqyi/UGnjgYwQXpjUdTTpId20rEEmQ51lhGDr6CZjr8+Gfu+4=
+=3Nwa
 -----END PGP SIGNATURE-----
